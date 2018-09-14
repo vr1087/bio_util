@@ -6,3 +6,9 @@ History
 ------------------
 
 * First release on PyPI.
+
+0.0.2 (2018-09-14)
+------------------
+
+Added load_references and run_cmd methods
+
